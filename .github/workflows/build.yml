@@ -43,3 +43,20 @@ jobs:
           git commit -m "Auto update DNS profile" || echo "No changes"
 
           git push
+
+      - name: Delete old latest tag
+        run: |
+          git tag -d latest || true
+          git push origin :refs/tags/latest || true
+        continue-on-error: true
+
+      - name: Create latest tag
+        run: |
+          git tag latest
+          git push origin latest --force
+
+      - name: Upload Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: latest
+          files: output/dns.mobileconfig
