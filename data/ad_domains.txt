@@ -23,7 +23,6 @@ appadhoc.com
 astrategy.beacon.qq.com
 auth.wosms.cn
 baichuan-sdk.taobao.com
-baidu.com taobao.com
 bdstatic.com
 beacon.qq.com
 bz-ipdx.baidu.com

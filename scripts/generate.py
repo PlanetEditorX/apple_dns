@@ -56,10 +56,19 @@ if INPUT_JSON.exists():
 # 4. 手动输入域名
 manual_domains = set()
 if INPUT_DOMAINS.exists():
-    for line in INPUT_DOMAINS.read_text(encoding="utf-8").splitlines():
-        line = line.strip()
-        if line:
-            manual_domains.add(line.lower())
+    content = INPUT_DOMAINS.read_text(encoding="utf-8")
+    # 支持：换行、空格、逗号、中文逗号
+    content = (
+        content
+        .replace(",", " ")
+        .replace("，", " ")
+    )
+    for line in content.splitlines():
+        for part in line.split():
+            domain = part.strip().lower()
+            if not domain:
+                continue
+            manual_domains.add(domain)
 
 # ----------- 合并去重 ------------
 all_ad_domains = sorted(old_ad_domains | new_domains | manual_domains)
