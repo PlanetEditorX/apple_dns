@@ -41,7 +41,7 @@
                     <string>astrategy.beacon.qq.com</string>
                     <string>auth.wosms.cn</string>
                     <string>baichuan-sdk.taobao.com</string>
-                    <string>baidu.com taobao.com</string>
+                    <string>baidu.com</string>
                     <string>bdstatic.com</string>
                     <string>beacon.qq.com</string>
                     <string>beta.apple.com</string>
@@ -137,6 +137,7 @@
                     <string>snowflake.qq.com</string>
                     <string>stats-ipv6.jpush.cn</string>
                     <string>tanx.com</string>
+                    <string>taobao.com</string>
                     <string>tb.hiphotos.baidu.com</string>
                     <string>tce.alicdn.com</string>
                     <string>tdid.m.qq.com</string>
