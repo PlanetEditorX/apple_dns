@@ -1,4 +1,7 @@
 import json
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
 
 APPLE_FILE = ROOT / "data/apple_fixed_domains.txt"
 AD_FILE = ROOT / "data/ad_domains.txt"
@@ -6,6 +9,7 @@ HEADER_FILE = ROOT / "templates/header.xml"
 FOOTER_FILE = ROOT / "templates/footer.xml"
 OUTPUT_FILE = ROOT / "output/dns.mobileconfig"
 
+OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
 
 def read_domains(file_path):
     if not file_path.exists():
