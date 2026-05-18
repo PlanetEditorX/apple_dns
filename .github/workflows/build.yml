@@ -4,8 +4,12 @@ on:
   workflow_dispatch:
     inputs:
       json:
-        description: '粘贴 AdGuard JSON'
-        required: true
+        description: '粘贴 AdGuard JSON（可选）'
+        required: false
+        type: string
+      domains:
+        description: '手动输入域名列表，每行一个（可选）'
+        required: false
         type: string
 
 permissions:
@@ -16,45 +20,63 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # 1. 获取仓库
       - name: Checkout
         uses: actions/checkout@v4
 
+      # 2. 设置 Python
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
 
-      - name: Save Input JSON
+      # 3. 保存用户输入
+      - name: Save Inputs
         run: |
-          cat > input.json << 'EOF'
-          ${{ github.event.inputs.json }}
-          EOF
+          # 保存 JSON 输入
+          if [ -n "${{ github.event.inputs.json }}" ]; then
+            echo '${{ github.event.inputs.json }}' > input.json
+          else
+            echo '{}' > input.json
+          fi
 
-      - name: Generate
+          # 保存手动域名输入
+          if [ -n "${{ github.event.inputs.domains }}" ]; then
+            echo '${{ github.event.inputs.domains }}' > input_domains.txt
+          else
+            echo '' > input_domains.txt
+          fi
+
+      # 4. 生成 DNS Profile
+      - name: Generate DNS Profile
         run: python scripts/generate.py
 
+      # 5. 提交更新到仓库
       - name: Commit Files
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
 
-          git add .
+          git add data/ad_domains.txt output/dns.mobileconfig
 
           git commit -m "Auto update DNS profile" || echo "No changes"
 
           git push
 
+      # 6. 删除旧 latest tag
       - name: Delete old latest tag
         run: |
           git tag -d latest || true
           git push origin :refs/tags/latest || true
         continue-on-error: true
 
+      # 7. 创建 latest tag
       - name: Create latest tag
         run: |
           git tag latest
           git push origin latest --force
 
+      # 8. 上传 Release
       - name: Upload Release
         uses: softprops/action-gh-release@v2
         with:
