@@ -1,0 +1,162 @@
+<!-- 广告和追踪器 -->
+<!-- 1. Unity Ads -->
+ads.internal.unity3d.com
+ads.prd.ie.internal.unity3d.com
+unityads.unity3d.com
+
+<!-- 2. Apple Ads -->
+ca.iadsdk.apple.com
+iadsdk.apple.com
+metrics.icloud.com
+api-adservices.apple.com
+
+<!-- 3. 穿山甲 / Pangle / 字节广告 -->
+api-access.pangolin-sdk-toutiao.com
+ctobsnssdk.com
+frontier-aweme-hl-ipainner.amemv.com
+gromore.pangolin-sdk-toutiao.com
+log-api.pangolin-sdk-toutiao-b.com
+mssdk.volces.com
+pangleglobal.com
+pangle-global.com
+pangle.cn
+sf3-fe-tos.pglstatp-toutiao.com
+sf6-fe-tos.pglstatp-toutiao.com
+tnc3-alisc1.zijieapi.com
+toblog.ctobsnssdk.com
+www.pangolin-dsp-toutiao.com
+csjplatform.com
+
+<!-- 4. 腾讯广告 / 腾讯统计 -->
+adclick.gdt.qq.com
+adnet.qq.com
+aegis.qq.com
+e.qq.com
+gdt.qq.com
+h.trace.qq.com
+ios.bugly.qq.com
+log.tpns.tencent.com
+mazu.m.qq.com
+pro.bugly.qq.com
+report.qqweb.qq.com
+rmonitor.qq.com
+sdk.e.qq.com
+sdkquic.e.qq.com
+snowflake.qq.com
+tdid.m.qq.com
+tpstelemetry.tencent.com
+astrategy.beacon.qq.com
+beacon.qq.com
+
+<!-- 5. 百度广告 / 百度统计 -->
+als.baidu.com
+bdstatic.com
+bz-ipdx.baidu.com
+cdn.hiphotos.baidu.com
+cpro.baidu.com
+dup.baidustatic.com
+hm.baidu.com
+nadvideo2.baidu.com
+nsclick.baidu.com
+tb.hiphotos.baidu.com
+union.baidu.com
+
+<!-- 6. 阿里 / 淘宝 / Tanx -->
+adash.man.aliyuncs.com
+adashbc.ut.taobao.com
+adashxgc.ut.taobao.com
+alimama.com
+baichuan-sdk.taobao.com
+click.taobao.com
+df.tanx.com
+et.tanx.com
+mmstat.com
+mum.alibabachengdun.com
+sdk-config.tanx.com
+tanx.com
+tce.alicdn.com
+
+<!-- 7. 秒针 / AdMaster -->
+admaster.cc
+admaster.com.cn
+e.cn.miaozhen.com
+g.cn.miaozhen.com
+miaozhen.com
+
+<!-- 8. 友盟 / Umeng -->
+cnlogs.umengcloud.com
+errnewlog.umeng.com
+resolve.umeng.com
+umeng.com
+utoken.umeng.com
+
+<!-- 9. 极光推送 / 个推 -->
+ali-stats.jpush.cn
+c-hzgt2.getui.com
+getui.com
+jpush.cn
+sis-ipv6.jpush.cn
+sis.jpush.io
+stats-ipv6.jpush.cn
+s.jpush.cn
+
+<!-- 10. Google Ads / Analytics -->
+doubleclick.net
+google-analytics.com
+googleadservices.com
+googletagmanager.com
+pagead2.googlesyndication.com
+
+<!-- 11. 小米 -->
+tracker.ai.xiaomi.com
+tracking.intl.miui.com
+sdkconfig.ad.intl.xiaomi.com
+
+<!-- 12. 快手 -->
+kssws.ks-cdn.com
+kuaishou.com
+kuaishou.httpdns.pro
+open.kwaizt.com
+yximgs.com
+
+<!-- 13. 知乎 -->
+apm.zhihu.com
+datahub.zhihu.com
+
+<!-- 14. 广告联盟 / 聚合广告 -->
+adx-cfg-u1.ubixioe.com
+adx-data-u1.ubixioe.com
+adx.com
+appadhoc.com
+jp.ad.gameley.com
+mintegral.com
+mob.com
+opencloud.wostore.cn
+sensorsdata.cn
+sig-mob.com
+union.163.com
+union.360.cn
+union.sogou.com
+union.sohu.com
+
+<!-- 15. 认证 / 设备指纹 / HTTPDNS -->
+auth.wosms.cn
+easytomessage.com
+httpdns.c.cdnhwc2.com
+id6.me
+idfa2.shuzilm.cn
+log-auth.zztfly.com
+tk.bridgeoos.com
+upc.zztfly.com
+yumao.puata.info
+
+<!-- 16. 360 -->
+hao.360.com
+qhimg.com
+
+<!-- 17. Bilibili -->
+dataflow.biliapi.com
+
+<!-- 18. AppsFlyer / 其他 -->
+launches.appsflyer.com
+analytics.appsflyer.com

@@ -1,0 +1,22 @@
+<!-- 屏蔽证书验证 -->
+ocsp.apple.com
+ocsp2.apple.com
+valid.apple.com
+crl.apple.com
+crl.entrust.net
+certs.apple.com
+appattest.apple.com
+vpp.itunes.apple.com
+
+<!-- 屏蔽更新 -->
+ns.itunes.apple.com
+applednld.apple.com
+gs.apple.com
+updates.cdn-apple.com
+gg.apple.com
+smp-device-content.apple.com
+beta.apple.com
+gdmf.apple.com
+mesu.apple.com
+appldnld.apple.com
+xp.apple.com

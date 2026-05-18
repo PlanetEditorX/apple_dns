@@ -1,0 +1,34 @@
+                </array>
+                <key>SupplementalMatchDomainsNoSearch</key>
+                <true/>
+            </dict>
+            <key>PayloadDescription</key>
+            <string>通过本地 DoH 服务屏蔽 Apple 系统更新域名及各类广告/追踪域名，实现设备免打扰。</string>
+            <key>PayloadDisplayName</key>
+            <string>屏蔽系统更新及广告追踪</string>
+            <key>PayloadIdentifier</key>
+            <string>com.example.doh.antirefresh.ads.dns</string>
+            <key>PayloadType</key>
+            <string>com.apple.dnsSettings.managed</string>
+            <key>PayloadUUID</key>
+            <string>E2A8C4F1-6B3D-4A79-8E1C-9F0D5B7A2C4E</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+        </dict>
+    </array>
+    <key>PayloadDescription</key>
+    <string>安装此描述文件后，所有列出的 Apple 更新域名及广告追踪域名都将通过本地 DoH 服务器解析（通常解析到 0.0.0.0），从而有效阻止 iOS 系统更新检测并减少广告骚扰。</string>
+    <key>PayloadDisplayName</key>
+    <string>屏蔽系统更新及广告追踪</string>
+    <key>PayloadIdentifier</key>
+    <string>com.example.doh.antirefresh.ads.v1</string>
+    <key>PayloadScope</key>
+    <string>System</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>8F4A2E9C-1B5D-4C6F-8A7E-3D9B2E5C7F1A</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
