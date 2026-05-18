@@ -11,16 +11,36 @@ OUTPUT_FILE = ROOT / "output/dns.mobileconfig"
 
 OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
 
-def read_domains(file_path):
-    if not file_path.exists():
+def read_domains(path):
+    if not path.exists():
         return set()
 
-    return {
-        line.strip()
-        for line in file_path.read_text(encoding="utf-8").splitlines()
-        if line.strip()
-    }
+    domains = set()
 
+    for line in path.read_text(encoding="utf-8").splitlines():
+
+        line = line.strip()
+
+        # 空行
+        if not line:
+            continue
+
+        # 注释
+        if line.startswith("<!--"):
+            continue
+
+        # XML string 标签（兼容）
+        line = (
+            line
+            .replace("<string>", "")
+            .replace("</string>", "")
+            .strip()
+        )
+
+        if line:
+            domains.add(line.lower())
+
+    return domains
 
 # GitHub Actions 输入 JSON
 json_input = Path("input.json").read_text(encoding="utf-8")
