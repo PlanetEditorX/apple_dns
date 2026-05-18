@@ -32,6 +32,7 @@
                     <string>analytics.appsflyer.com</string>
                     <string>api-access.pangolin-sdk-toutiao.com</string>
                     <string>api-adservices.apple.com</string>
+                    <string>api.bridgeoos.com</string>
                     <string>apm.zhihu.com</string>
                     <string>appadhoc.com</string>
                     <string>appattest.apple.com</string>
@@ -48,6 +49,7 @@
                     <string>ca.iadsdk.apple.com</string>
                     <string>cdn.hiphotos.baidu.com</string>
                     <string>certs.apple.com</string>
+                    <string>cf.iadsdk.apple.com</string>
                     <string>click.taobao.com</string>
                     <string>cnlogs.umengcloud.com</string>
                     <string>cpro.baidu.com</string>
@@ -55,6 +57,7 @@
                     <string>crl.entrust.net</string>
                     <string>csjplatform.com</string>
                     <string>ctobsnssdk.com</string>
+                    <string>da.statisticslinks.com</string>
                     <string>dataflow.biliapi.com</string>
                     <string>datahub.zhihu.com</string>
                     <string>df.tanx.com</string>

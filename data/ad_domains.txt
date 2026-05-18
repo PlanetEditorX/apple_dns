@@ -17,6 +17,7 @@ als.baidu.com
 analytics.appsflyer.com
 api-access.pangolin-sdk-toutiao.com
 api-adservices.apple.com
+api.bridgeoos.com
 apm.zhihu.com
 appadhoc.com
 astrategy.beacon.qq.com
@@ -28,11 +29,13 @@ bz-ipdx.baidu.com
 c-hzgt2.getui.com
 ca.iadsdk.apple.com
 cdn.hiphotos.baidu.com
+cf.iadsdk.apple.com
 click.taobao.com
 cnlogs.umengcloud.com
 cpro.baidu.com
 csjplatform.com
 ctobsnssdk.com
+da.statisticslinks.com
 dataflow.biliapi.com
 datahub.zhihu.com
 df.tanx.com
