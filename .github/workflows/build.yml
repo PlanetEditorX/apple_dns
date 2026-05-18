@@ -4,11 +4,11 @@ on:
   workflow_dispatch:
     inputs:
       json:
-        description: '粘贴 AdGuard JSON（可选）'
+        description: '粘贴 AdGuard JSON'
         required: false
         type: string
       domains:
-        description: '手动输入域名列表，每行一个（可选）'
+        description: '手动输入域名列表，每行一个'
         required: false
         type: string
 
