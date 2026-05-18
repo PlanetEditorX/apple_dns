@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       json:
-        description: '粘贴 AdGuard JSON'
+        description: 'AdGuard JSON'
         required: false
         type: string
       domains:

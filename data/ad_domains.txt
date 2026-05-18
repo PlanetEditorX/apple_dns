@@ -23,7 +23,6 @@ appadhoc.com
 astrategy.beacon.qq.com
 auth.wosms.cn
 baichuan-sdk.taobao.com
-baidu.com
 bdstatic.com
 beacon.qq.com
 bz-ipdx.baidu.com
@@ -107,7 +106,6 @@ sis.jpush.io
 snowflake.qq.com
 stats-ipv6.jpush.cn
 tanx.com
-taobao.com
 tb.hiphotos.baidu.com
 tce.alicdn.com
 tdid.m.qq.com
