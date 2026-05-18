@@ -22,8 +22,10 @@
                     <string>adnet.qq.com</string>
                     <string>ads.internal.unity3d.com</string>
                     <string>ads.prd.ie.internal.unity3d.com</string>
+                    <string>ads5-normal-lf.zijieapi.com</string>
                     <string>adx-cfg-u1.ubixioe.com</string>
                     <string>adx-data-u1.ubixioe.com</string>
+                    <string>adx-strategy-api-cn.statisticslinks.com</string>
                     <string>adx.com</string>
                     <string>aegis.qq.com</string>
                     <string>ali-stats.jpush.cn</string>
@@ -32,8 +34,11 @@
                     <string>analytics.appsflyer.com</string>
                     <string>api-access.pangolin-sdk-toutiao.com</string>
                     <string>api-adservices.apple.com</string>
+                    <string>api.anythinktech.com</string>
                     <string>api.bridgeoos.com</string>
                     <string>apm.zhihu.com</string>
+                    <string>app-analytics-services.com</string>
+                    <string>app-measurement.com</string>
                     <string>appadhoc.com</string>
                     <string>appattest.apple.com</string>
                     <string>appldnld.apple.com</string>
@@ -41,8 +46,9 @@
                     <string>astrategy.beacon.qq.com</string>
                     <string>auth.wosms.cn</string>
                     <string>baichuan-sdk.taobao.com</string>
-                    <string>baidu.com</string>
                     <string>bdstatic.com</string>
+                    <string>beacon-api.aliyuncs.com</string>
+                    <string>beacon.cdn.qq.com</string>
                     <string>beacon.qq.com</string>
                     <string>beta.apple.com</string>
                     <string>bz-ipdx.baidu.com</string>
@@ -69,7 +75,9 @@
                     <string>easytomessage.com</string>
                     <string>errnewlog.umeng.com</string>
                     <string>et.tanx.com</string>
+                    <string>feedback-c.zijieapi.com</string>
                     <string>frontier-aweme-hl-ipainner.amemv.com</string>
+                    <string>frontier100-toutiao-lf.fqnovel.com</string>
                     <string>g.cn.miaozhen.com</string>
                     <string>gdmf.apple.com</string>
                     <string>gdt.qq.com</string>
@@ -87,6 +95,7 @@
                     <string>iadsdk.apple.com</string>
                     <string>id6.me</string>
                     <string>idfa2.shuzilm.cn</string>
+                    <string>inapps.appsflyer.com</string>
                     <string>ios.bugly.qq.com</string>
                     <string>jp.ad.gameley.com</string>
                     <string>jpush.cn</string>
@@ -104,7 +113,9 @@
                     <string>mintegral.com</string>
                     <string>mmstat.com</string>
                     <string>mob.com</string>
+                    <string>mon11-misc-lf.fqnovel.com</string>
                     <string>mssdk.volces.com</string>
+                    <string>mssdk3-normal-lf.zijieapi.com</string>
                     <string>mum.alibabachengdun.com</string>
                     <string>nadvideo2.baidu.com</string>
                     <string>ns.itunes.apple.com</string>
@@ -117,11 +128,13 @@
                     <string>pangle-global.com</string>
                     <string>pangle.cn</string>
                     <string>pangleglobal.com</string>
+                    <string>polaris5-normal-lf.zijieapi.com</string>
                     <string>pro.bugly.qq.com</string>
                     <string>qhimg.com</string>
                     <string>report.qqweb.qq.com</string>
                     <string>resolve.umeng.com</string>
                     <string>rmonitor.qq.com</string>
+                    <string>rtlog5-applog-lf.fqnovel.com</string>
                     <string>s.jpush.cn</string>
                     <string>sdk-config.tanx.com</string>
                     <string>sdk.e.qq.com</string>
@@ -137,12 +150,14 @@
                     <string>snowflake.qq.com</string>
                     <string>stats-ipv6.jpush.cn</string>
                     <string>tanx.com</string>
-                    <string>taobao.com</string>
                     <string>tb.hiphotos.baidu.com</string>
+                    <string>tc.weszxdrf.com</string>
                     <string>tce.alicdn.com</string>
                     <string>tdid.m.qq.com</string>
+                    <string>timon.zijieapi.com</string>
                     <string>tk.bridgeoos.com</string>
                     <string>tk.statisticslinks.com</string>
+                    <string>tnc0-aliec2.zijieapi.com</string>
                     <string>tnc3-alisc1.zijieapi.com</string>
                     <string>toblog.ctobsnssdk.com</string>
                     <string>tpstelemetry.tencent.com</string>
