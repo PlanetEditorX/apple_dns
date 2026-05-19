@@ -13,8 +13,10 @@
                 <string>https://127.0.0.1/dns-query</string>
                 <key>SupplementalMatchDomains</key>
                 <array>
+                    <string>3ad01dfa4.sched.d0.tdnsdp1.cn</string>
                     <string>adash.man.aliyuncs.com</string>
                     <string>adashbc.ut.taobao.com</string>
+                    <string>adashx.m.taobao.com.w.kunlunhuf.com</string>
                     <string>adashxgc.ut.taobao.com</string>
                     <string>adclick.gdt.qq.com</string>
                     <string>admaster.cc</string>
@@ -32,12 +34,14 @@
                     <string>ali-stats.jpush.cn</string>
                     <string>alimama.com</string>
                     <string>als.baidu.com</string>
+                    <string>amdc.m.taobao.com</string>
                     <string>analytics.appsflyer.com</string>
                     <string>api-access.pangolin-sdk-toutiao.com</string>
                     <string>api-adservices.apple.com</string>
                     <string>api.anythinktech.com</string>
                     <string>api.bridgeoos.com</string>
                     <string>apm.zhihu.com</string>
+                    <string>apmplus.volces.com</string>
                     <string>app-analytics-services.com</string>
                     <string>app-measurement.com</string>
                     <string>appadhoc.com</string>
@@ -45,7 +49,9 @@
                     <string>appldnld.apple.com</string>
                     <string>applednld.apple.com</string>
                     <string>astrategy.beacon.qq.com</string>
+                    <string>atoken.m.taobao.com</string>
                     <string>auth.wosms.cn</string>
+                    <string>b-gtc.gepush.com</string>
                     <string>baichuan-sdk.taobao.com</string>
                     <string>bdstatic.com</string>
                     <string>beacon-api.aliyuncs.com</string>
@@ -54,6 +60,7 @@
                     <string>beta.apple.com</string>
                     <string>bz-ipdx.baidu.com</string>
                     <string>c-hzgt2.getui.com</string>
+                    <string>c-oneid.getui.net</string>
                     <string>ca.iadsdk.apple.com</string>
                     <string>cdn.hiphotos.baidu.com</string>
                     <string>certs.apple.com</string>
@@ -81,6 +88,7 @@
                     <string>frontier-aweme-hl-ipainner.amemv.com</string>
                     <string>frontier100-toutiao-lf.fqnovel.com</string>
                     <string>g.cn.miaozhen.com</string>
+                    <string>gaode-acs.m.taobao.com</string>
                     <string>gdmf.apple.com</string>
                     <string>gdt.qq.com</string>
                     <string>getui.com</string>
@@ -92,6 +100,7 @@
                     <string>googletagmanager.com</string>
                     <string>gromore.pangolin-sdk-toutiao.com</string>
                     <string>gs.apple.com</string>
+                    <string>h-adashx.ut.taobao.com</string>
                     <string>h.trace.qq.com</string>
                     <string>h2tcbox.baidu.com</string>
                     <string>hao.360.com</string>
@@ -112,6 +121,8 @@
                     <string>log-api.pangolin-sdk-toutiao-b.com</string>
                     <string>log-auth.zztfly.com</string>
                     <string>log.tpns.tencent.com</string>
+                    <string>log2.cmpassport.com</string>
+                    <string>main.m.taobao.com.w.alikunlun.com</string>
                     <string>mazu.m.qq.com</string>
                     <string>mbd.baidu.com</string>
                     <string>mesu.apple.com</string>
@@ -131,6 +142,9 @@
                     <string>nsclick.baidu.com</string>
                     <string>ocsp.apple.com</string>
                     <string>ocsp2.apple.com</string>
+                    <string>oneid.gepush.com</string>
+                    <string>online-msgacs.m.taobao.com.gds.alibabadns.com</string>
+                    <string>open.kuaishouzt.com</string>
                     <string>open.kwaizt.com</string>
                     <string>opencloud.wostore.cn</string>
                     <string>pagead2.googlesyndication.com</string>
@@ -139,6 +153,7 @@
                     <string>pangleglobal.com</string>
                     <string>polaris5-normal-lf.zijieapi.com</string>
                     <string>pro.bugly.qq.com</string>
+                    <string>pv.sohu.com</string>
                     <string>qhimg.com</string>
                     <string>report.qqweb.qq.com</string>
                     <string>resolve.umeng.com</string>
@@ -160,10 +175,12 @@
                     <string>snowflake.qq.com</string>
                     <string>sofire.baidu.com</string>
                     <string>stats-ipv6.jpush.cn</string>
+                    <string>sugar.zhihu.com</string>
                     <string>t10.baidu.com</string>
                     <string>t11.baidu.com</string>
                     <string>t12.baidu.com</string>
                     <string>tanx.com</string>
+                    <string>tao.cn.zb.tengine.ingress.alibabacorp.com.gds.alibabadns.com</string>
                     <string>tb.hiphotos.baidu.com</string>
                     <string>tc.weszxdrf.com</string>
                     <string>tce.alicdn.com</string>
@@ -173,7 +190,9 @@
                     <string>tk.statisticslinks.com</string>
                     <string>tnc0-aliec2.zijieapi.com</string>
                     <string>tnc3-alisc1.zijieapi.com</string>
+                    <string>tobapplog.volceapplog.com</string>
                     <string>toblog.ctobsnssdk.com</string>
+                    <string>toblog.volceapplog.com</string>
                     <string>tpstelemetry.tencent.com</string>
                     <string>tracker.ai.xiaomi.com</string>
                     <string>tracking.intl.miui.com</string>
