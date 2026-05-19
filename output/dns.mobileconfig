@@ -28,6 +28,7 @@
                     <string>adx-strategy-api-cn.statisticslinks.com</string>
                     <string>adx.com</string>
                     <string>aegis.qq.com</string>
+                    <string>afd.baidu.com</string>
                     <string>ali-stats.jpush.cn</string>
                     <string>alimama.com</string>
                     <string>als.baidu.com</string>
@@ -68,6 +69,7 @@
                     <string>dataflow.biliapi.com</string>
                     <string>datahub.zhihu.com</string>
                     <string>df.tanx.com</string>
+                    <string>dlswbr.baidu.com</string>
                     <string>doubleclick.net</string>
                     <string>dup.baidustatic.com</string>
                     <string>e.cn.miaozhen.com</string>
@@ -83,6 +85,7 @@
                     <string>gdt.qq.com</string>
                     <string>getui.com</string>
                     <string>gg.apple.com</string>
+                    <string>gitee.com-31ba39d0fd3.baiduads.com</string>
                     <string>google-analytics.com</string>
                     <string>googleadservices.com</string>
                     <string>googletagmanager.com</string>
@@ -96,6 +99,7 @@
                     <string>id6.me</string>
                     <string>idfa2.shuzilm.cn</string>
                     <string>inapps.appsflyer.com</string>
+                    <string>info.tuisong.baidu.com</string>
                     <string>ios.bugly.qq.com</string>
                     <string>jp.ad.gameley.com</string>
                     <string>jpush.cn</string>
@@ -107,12 +111,15 @@
                     <string>log-auth.zztfly.com</string>
                     <string>log.tpns.tencent.com</string>
                     <string>mazu.m.qq.com</string>
+                    <string>mbd.baidu.com</string>
                     <string>mesu.apple.com</string>
                     <string>metrics.icloud.com</string>
+                    <string>miao.baidu.com</string>
                     <string>miaozhen.com</string>
                     <string>mintegral.com</string>
                     <string>mmstat.com</string>
                     <string>mob.com</string>
+                    <string>mobads.baidu.com</string>
                     <string>mon11-misc-lf.fqnovel.com</string>
                     <string>mssdk.volces.com</string>
                     <string>mssdk3-normal-lf.zijieapi.com</string>
@@ -141,6 +148,7 @@
                     <string>sdkconfig.ad.intl.xiaomi.com</string>
                     <string>sdkquic.e.qq.com</string>
                     <string>sensorsdata.cn</string>
+                    <string>sentry.io</string>
                     <string>sf3-fe-tos.pglstatp-toutiao.com</string>
                     <string>sf6-fe-tos.pglstatp-toutiao.com</string>
                     <string>sig-mob.com</string>
@@ -148,7 +156,11 @@
                     <string>sis.jpush.io</string>
                     <string>smp-device-content.apple.com</string>
                     <string>snowflake.qq.com</string>
+                    <string>sofire.baidu.com</string>
                     <string>stats-ipv6.jpush.cn</string>
+                    <string>t10.baidu.com</string>
+                    <string>t11.baidu.com</string>
+                    <string>t12.baidu.com</string>
                     <string>tanx.com</string>
                     <string>tb.hiphotos.baidu.com</string>
                     <string>tc.weszxdrf.com</string>
@@ -175,6 +187,7 @@
                     <string>utoken.umeng.com</string>
                     <string>valid.apple.com</string>
                     <string>vpp.itunes.apple.com</string>
+                    <string>www.callmekeji.com</string>
                     <string>www.pangolin-dsp-toutiao.com</string>
                     <string>xp.apple.com</string>
                     <string>yumao.puata.info</string>

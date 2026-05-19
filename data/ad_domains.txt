@@ -13,6 +13,7 @@ adx-data-u1.ubixioe.com
 adx-strategy-api-cn.statisticslinks.com
 adx.com
 aegis.qq.com
+afd.baidu.com
 ali-stats.jpush.cn
 alimama.com
 als.baidu.com
@@ -46,6 +47,7 @@ da.statisticslinks.com
 dataflow.biliapi.com
 datahub.zhihu.com
 df.tanx.com
+dlswbr.baidu.com
 doubleclick.net
 dup.baidustatic.com
 e.cn.miaozhen.com
@@ -59,6 +61,7 @@ frontier100-toutiao-lf.fqnovel.com
 g.cn.miaozhen.com
 gdt.qq.com
 getui.com
+gitee.com-31ba39d0fd3.baiduads.com
 google-analytics.com
 googleadservices.com
 googletagmanager.com
@@ -71,6 +74,7 @@ iadsdk.apple.com
 id6.me
 idfa2.shuzilm.cn
 inapps.appsflyer.com
+info.tuisong.baidu.com
 ios.bugly.qq.com
 jp.ad.gameley.com
 jpush.cn
@@ -82,11 +86,14 @@ log-api.pangolin-sdk-toutiao-b.com
 log-auth.zztfly.com
 log.tpns.tencent.com
 mazu.m.qq.com
+mbd.baidu.com
 metrics.icloud.com
+miao.baidu.com
 miaozhen.com
 mintegral.com
 mmstat.com
 mob.com
+mobads.baidu.com
 mon11-misc-lf.fqnovel.com
 mssdk.volces.com
 mssdk3-normal-lf.zijieapi.com
@@ -112,13 +119,18 @@ sdk.e.qq.com
 sdkconfig.ad.intl.xiaomi.com
 sdkquic.e.qq.com
 sensorsdata.cn
+sentry.io
 sf3-fe-tos.pglstatp-toutiao.com
 sf6-fe-tos.pglstatp-toutiao.com
 sig-mob.com
 sis-ipv6.jpush.cn
 sis.jpush.io
 snowflake.qq.com
+sofire.baidu.com
 stats-ipv6.jpush.cn
+t10.baidu.com
+t11.baidu.com
+t12.baidu.com
 tanx.com
 tb.hiphotos.baidu.com
 tc.weszxdrf.com
@@ -142,6 +154,7 @@ union.sohu.com
 unityads.unity3d.com
 upc.zztfly.com
 utoken.umeng.com
+www.callmekeji.com
 www.pangolin-dsp-toutiao.com
 yumao.puata.info
 yximgs.com
