@@ -48,6 +48,7 @@
                     <string>appattest.apple.com</string>
                     <string>appldnld.apple.com</string>
                     <string>applednld.apple.com</string>
+                    <string>aspect-upush.umeng.com</string>
                     <string>astrategy.beacon.qq.com</string>
                     <string>atoken.m.taobao.com</string>
                     <string>auth.wosms.cn</string>
@@ -196,6 +197,7 @@
                     <string>tpstelemetry.tencent.com</string>
                     <string>tracker.ai.xiaomi.com</string>
                     <string>tracking.intl.miui.com</string>
+                    <string>tsis-ipv6.jpush.cn</string>
                     <string>umeng.com</string>
                     <string>union.163.com</string>
                     <string>union.360.cn</string>

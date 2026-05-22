@@ -30,6 +30,7 @@ apmplus.volces.com
 app-analytics-services.com
 app-measurement.com
 appadhoc.com
+aspect-upush.umeng.com
 astrategy.beacon.qq.com
 atoken.m.taobao.com
 auth.wosms.cn
@@ -166,6 +167,7 @@ toblog.volceapplog.com
 tpstelemetry.tencent.com
 tracker.ai.xiaomi.com
 tracking.intl.miui.com
+tsis-ipv6.jpush.cn
 umeng.com
 union.163.com
 union.360.cn
